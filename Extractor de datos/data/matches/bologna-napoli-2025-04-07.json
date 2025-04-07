@@ -1,0 +1,104 @@
+{
+  "match_info": {
+    "date": "2025-04-07",
+    "team1_id": 500,
+    "team1_name": "Bologna",
+    "team2_id": 492,
+    "team2_name": "Napoli",
+    "league": {
+      "id": 135,
+      "name": "Serie A",
+      "country": "Italy"
+    },
+    "fixture_id": 1223896,
+    "status": "Not Started"
+  },
+  "venue": {
+    "id": 881,
+    "name": "Stadio Renato Dall'Ara",
+    "city": "Bologna"
+  },
+  "travel_distance_km": 470.63,
+  "h2h": {
+    "total_matches": 0,
+    "team1_wins": 6,
+    "team2_wins": 16,
+    "draws": 5,
+    "team1_win_pct": 0,
+    "team2_win_pct": 0,
+    "draw_pct": 0,
+    "avg_goals_team1": 0,
+    "avg_goals_team2": 0,
+    "avg_total_goals": 0
+  },
+  "standings": {
+    "team2": {
+      "rank": 2,
+      "points": 64,
+      "form": "WDWDL",
+      "goals_diff": 23
+    },
+    "team1": {
+      "rank": 4,
+      "points": 56,
+      "form": "WWWWW",
+      "goals_diff": 16
+    }
+  },
+  "team1": {
+    "id": 500,
+    "name": "Bologna"
+  },
+  "team2": {
+    "id": 492,
+    "name": "Napoli"
+  },
+  "future_matches_summary": {
+    "team1": [
+      {
+        "opponent": "Napoli",
+        "location": "Home",
+        "league": "Serie A",
+        "date": "2025-04-07",
+        "days_until": 0
+      },
+      {
+        "opponent": "Atalanta",
+        "location": "Away",
+        "league": "Serie A",
+        "date": "2025-04-13",
+        "days_until": 6
+      },
+      {
+        "opponent": "Inter",
+        "location": "Home",
+        "league": "Serie A",
+        "date": "2025-04-20",
+        "days_until": 13
+      }
+    ],
+    "team2": [
+      {
+        "opponent": "Bologna",
+        "location": "Away",
+        "league": "Serie A",
+        "date": "2025-04-07",
+        "days_until": 0
+      },
+      {
+        "opponent": "Empoli",
+        "location": "Home",
+        "league": "Serie A",
+        "date": "2025-04-14",
+        "days_until": 7
+      },
+      {
+        "opponent": "Monza",
+        "location": "Away",
+        "league": "Serie A",
+        "date": "2025-04-19",
+        "days_until": 12
+      }
+    ]
+  }
+}
